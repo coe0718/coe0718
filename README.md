@@ -38,18 +38,18 @@ Personal AI fleet. Desktop HAL for agents. Multi-product SaaS suite. Homelab tha
 
 <div align="center">
   <a href="https://github.com/coe0718/deskbrid">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coe0718&repo=deskbrid&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=coe0718&repo=deskbrid&theme=radical" alt="deskbrid" />
   </a>
   <a href="https://github.com/coe0718/axonix">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coe0718&repo=axonix&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=coe0718&repo=axonix&theme=radical" alt="axonix" />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/coe0718/praxis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coe0718&repo=praxis&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=coe0718&repo=praxis&theme=radical" alt="praxis" />
   </a>
   <a href="https://github.com/coe0718/twitter-setup">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coe0718&repo=twitter-setup&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=coe0718&repo=twitter-setup&theme=radical" alt="twitter-setup" />
   </a>
 </div>
 
@@ -62,14 +62,14 @@ Personal AI fleet. Desktop HAL for agents. Multi-product SaaS suite. Homelab tha
 ## > git status.
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=coe0718&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coe0718&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=coe0718&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=coe0718&layout=compact&theme=radical" alt="Top languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=coe0718&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=coe0718&theme=radical&hide_border=true" alt="GitHub streak" />
 </div>
 
 <br/>
