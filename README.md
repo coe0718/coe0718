@@ -30,7 +30,7 @@ Personal AI fleet. Desktop HAL for agents. Multi-product SaaS suite. Homelab tha
 
 <div align="center">
 
-`Rust` · `Python` · `Linux` · `Docker` · `OpenCore-adjacent ops` · `multi-agent systems` · `self-hosted infra`
+`Rust` · `Python` · `Linux` · `Docker` · `multi-agent systems` · `self-hosted infra`
 
 </div>
 
@@ -55,7 +55,7 @@ Personal AI fleet. Desktop HAL for agents. Multi-product SaaS suite. Homelab tha
 
 <p align="center">
   <b>Deskbrid</b> — Linux desktop HAL for AI agents (GNOME / KDE / Hyprland / X11)<br/>
-  <b>PatchHive</b> — multi-product GitHub automation suite · <a href="https://patchhive.dev">patchhive.dev</a><br/>
+  <b>PatchHive</b> — multi-product GitHub automation suite · <a href="https://github.com/patchhive">github.com/patchhive</a> · <a href="https://patchhive.dev">patchhive.dev</a><br/>
   <b>Axonix / Praxis</b> — agent systems built to run for real, not slide decks
 </p>
 
@@ -87,9 +87,8 @@ Personal AI fleet. Desktop HAL for agents. Multi-product SaaS suite. Homelab tha
 | Project | What it is |
 |:--|:--|
 | **[Deskbrid](https://github.com/coe0718/deskbrid)** | One daemon, one socket — full Linux desktop control for agents |
-| **PatchHive** | MergeKeeper → RepoReaper and the rest of the hive |
+| **[PatchHive](https://github.com/patchhive)** | MergeKeeper → RepoReaper and the rest of the hive · [patchhive.dev](https://patchhive.dev) |
 | **[Tuck](https://github.com/tuck-coe)** | Personal AI assistant that actually runs the homelab |
-| **Kai-Voss** | Book-writing agent platform for my kid |
 
 </div>
 
@@ -100,8 +99,16 @@ Personal AI fleet. Desktop HAL for agents. Multi-product SaaS suite. Homelab tha
 </p>
 
 <p align="center">
+  <a href="https://github.com/patchhive">
+    <img src="https://img.shields.io/badge/PatchHive-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="PatchHive" />
+  </a>
+  &nbsp;
   <a href="https://patchhive.dev">
-    <img src="https://img.shields.io/badge/PatchHive-0A0A0A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMTkuMDkgOEwxMiAyMkw0LjkxIDh6Ii8+PC9zdmc+" alt="PatchHive" />
+    <img src="https://img.shields.io/badge/patchhive.dev-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="patchhive.dev" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/iamunk20">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   &nbsp;
   <a href="https://github.com/coe0718">
