@@ -1,97 +1,116 @@
-# 👋 Hi there, I'm Jeremy Coe!
+<img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Jeremy%20Coe&fontSize=50&fontAlign=50&fontAlignY=48&animation=twinkling&desc=build.%20ship.%20repeat.&descSize=18&descAlignY=58&descAlign=56&section=footer" />
 
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/250232982?v=4" width="150" style="border-radius: 50%;" alt="coe0718" />
-  
-  **Factory worker by day. Building agent infrastructure on Linux by night. Deskbrid · PatchHive · Praxis. Albion, Indiana.**
-  
-  [![GitHub followers](https://img.shields.io/github/followers/coe0718?style=social)](https://github.com/coe0718)
-  [![GitHub stars](https://img.shields.io/github/stars/coe0718?style=social)](https://github.com/coe0718)
-</div>
-
----
-
-## 🚀 About Me
-
-- **Bio:** Factory worker by day. Building agent infrastructure on Linux by night. Deskbrid · PatchHive · Praxis. Albion, Indiana.
-- **Location:** Indiana 
-- **Repositories:** 7 public repos
-- **Followers:** 22 followers
-- **Blog/Website:** [https://patchhive.dev](https://patchhive.dev)
-
----
-
-## 📊 GitHub Statistics
+<p align="center">
+  <b>Factory floor by day · Agent infrastructure by night · Albion, Indiana</b><br/>
+  Rust · Linux · AI agents · Homelab &nbsp;|&nbsp; Deskbrid · PatchHive · Praxis
+</p>
 
 <div align="center">
 
-![coe0718's GitHub stats](https://github-stats-extended.vercel.app/api?username=coe0718&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=coe0718&layout=compact&theme=radical&hide_border=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=coe0718&theme=radical&hide_border=true)](https://git.io/streak-stats)
+*I don't build demos. I build tools I actually run — then open-source the ones that hold up.*
 
 </div>
 
-### 📈 Quick Stats
-- **Total Stars Earned:** 41 ⭐
-- **Total Forks:** 8 🍴
-- **Open Issues:** 17 📋
+## > what I do.
 
----
+<p align="center">
+Union shop worker who spends nights shipping real agent infrastructure on Linux.<br/>
+Personal AI fleet. Desktop HAL for agents. Multi-product SaaS suite. Homelab that stays up.
+</p>
 
-## 🛠️ Technology Stack
+## > under the hood.
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,python,linux,docker,githubactions,neovim,bash,postgres,sqlite,cloudflare,vercel,git,github,discord&theme=dark&perline=7" alt="Skills" />
+  </a>
+</div>
+
+<br/>
 
 <div align="center">
 
-![Rust](https://img.shields.io/badge/Rust-3%25-DEA584?style=for-the-badge&logo=rust)
-![Python](https://img.shields.io/badge/Python-2%25-3776AB?style=for-the-badge&logo=python)
+`Rust` · `Python` · `Linux` · `Docker` · `OpenCore-adjacent ops` · `multi-agent systems` · `self-hosted infra`
 
 </div>
 
----
+## > what I've shipped.
 
-## 📌 Pinned Repositories
+<div align="center">
+  <a href="https://github.com/coe0718/deskbrid">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coe0718&repo=deskbrid&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/coe0718/axonix">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coe0718&repo=axonix&theme=radical&hide_border=true" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/coe0718/praxis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coe0718&repo=praxis&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/coe0718/twitter-setup">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coe0718&repo=twitter-setup&theme=radical&hide_border=true" />
+  </a>
+</div>
 
+<p align="center">
+  <b>Deskbrid</b> — Linux desktop HAL for AI agents (GNOME / KDE / Hyprland / X11)<br/>
+  <b>PatchHive</b> — multi-product GitHub automation suite · <a href="https://patchhive.dev">patchhive.dev</a><br/>
+  <b>Axonix / Praxis</b> — agent systems built to run for real, not slide decks
+</p>
 
-### [deskbrid](https://github.com/coe0718/deskbrid)
-Linux desktop HAL for AI agents. One daemon, one socket, every desktop action. GNOME, KDE, Hyprland, X11. Ships in one command.
-- ⭐ 29 stars | 🍴 6 forks
-- 🛠️ **Language:** Rust
+## > git status.
 
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=coe0718&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coe0718&layout=compact&theme=radical&hide_border=true" />
+</div>
 
-### [axonix](https://github.com/coe0718/axonix)
-A self-evolving AI agent that gets more useful every day
-- ⭐ 6 stars | 🍴 0 forks
-- 🛠️ **Language:** Rust
+<br/>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=coe0718&theme=radical&hide_border=true" />
+</div>
 
-### [twitter-setup](https://github.com/coe0718/twitter-setup)
-**A zero-cost approach to automated tweeting using Playwright, browser cookies, and no developer account.**
-- ⭐ 3 stars | 🍴 0 forks
-- 🛠️ **Language:** Python
-
-
----
-
-## 🤝 Connect With Me
+<br/>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-coe0718-181717?style=for-the-badge&logo=github)](https://github.com/coe0718)
-
-[![Website](https://img.shields.io/badge/Website-coe0718-000000?style=for-the-badge&logo=about.me)](https://patchhive.dev)
+*currently: shipping agent infrastructure, grinding side income off the factory clock, raising hell (and kids).*
 
 </div>
 
----
+## > also building.
 
 <div align="center">
-  
-**⭐ Don't forget to star this repository if you found it useful!** ⭐
 
-*Generated with [GitHub Profile Forge](https://github.com/rahuljaim/github-readme-profile-generator-forge)*
-
-**Visitor Count:** ![Visitors](https://komarev.com/ghpvc/?username=coe0718&color=blue&style=flat)
+| Project | What it is |
+|:--|:--|
+| **[Deskbrid](https://github.com/coe0718/deskbrid)** | One daemon, one socket — full Linux desktop control for agents |
+| **PatchHive** | MergeKeeper → RepoReaper and the rest of the hive |
+| **[Tuck](https://github.com/tuck-coe)** | Personal AI assistant that actually runs the homelab |
+| **Kai-Voss** | Book-writing agent platform for my kid |
 
 </div>
+
+## > reach out.
+
+<p align="center">
+  Building something real? I care about that more than titles.
+</p>
+
+<p align="center">
+  <a href="https://patchhive.dev">
+    <img src="https://img.shields.io/badge/PatchHive-0A0A0A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMTkuMDkgOEwxMiAyMkw0LjkxIDh6Ii8+PC9zdmc+" alt="PatchHive" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/coe0718">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:coe0718@icloud.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=we%20don't%20ship%20junk.&fontSize=36&fontAlign=50&fontAlignY=55&animation=twinkling&section=footer&reversal=true" />
