@@ -1,0 +1,67 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#090B10"/>
+      <stop offset="0.52" stop-color="#111723"/>
+      <stop offset="1" stop-color="#090B10"/>
+    </linearGradient>
+    <linearGradient id="line" x1="96" y1="67" x2="1090" y2="291" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEAD4" stop-opacity="0"/>
+      <stop offset="0.48" stop-color="#5EEAD4"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#94A3B8" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="21" stroke="#334155" stroke-opacity="0.7"/>
+
+  <g opacity="0.95">
+    <path d="M72 83H204L226 61H382" stroke="#5EEAD4" stroke-opacity="0.38"/>
+    <circle cx="72" cy="83" r="3" fill="#5EEAD4"/>
+    <circle cx="382" cy="61" r="3" fill="#5EEAD4"/>
+    <path d="M834 296H1014L1038 272H1129" stroke="#8B5CF6" stroke-opacity="0.36"/>
+    <circle cx="834" cy="296" r="3" fill="#8B5CF6"/>
+    <circle cx="1129" cy="272" r="3" fill="#8B5CF6"/>
+  </g>
+
+  <g transform="translate(889 48)">
+    <path d="M90 0L168 45V135L90 180L12 135V45L90 0Z" stroke="#5EEAD4" stroke-opacity="0.45" stroke-width="1.5"/>
+    <path d="M90 26L145 58V122L90 154L35 122V58L90 26Z" stroke="#8B5CF6" stroke-opacity="0.45"/>
+    <path d="M90 54L121 72V108L90 126L59 108V72L90 54Z" fill="#0F172A" stroke="#E2E8F0" stroke-opacity="0.6"/>
+    <circle cx="90" cy="90" r="7" fill="#5EEAD4" filter="url(#glow)"/>
+    <path d="M90 0V54M168 45L121 72M168 135L121 108M90 180V126M12 135L59 108M12 45L59 72" stroke="#64748B" stroke-opacity="0.45"/>
+  </g>
+
+  <text x="76" y="76" fill="#5EEAD4" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15" letter-spacing="4">COE://0718</text>
+  <text x="76" y="151" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-weight="800" font-size="58" letter-spacing="-2">JEREMY COE</text>
+  <text x="78" y="194" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18">factory floor  →  homelab  →  agent infrastructure</text>
+
+  <line x1="78" y1="229" x2="760" y2="229" stroke="url(#line)"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" letter-spacing="1">
+    <text x="78" y="270" fill="#94A3B8">RUST</text>
+    <text x="146" y="270" fill="#475569">/</text>
+    <text x="171" y="270" fill="#94A3B8">LINUX</text>
+    <text x="247" y="270" fill="#475569">/</text>
+    <text x="272" y="270" fill="#94A3B8">AGENTS</text>
+    <text x="362" y="270" fill="#475569">/</text>
+    <text x="387" y="270" fill="#94A3B8">AUTOMATION</text>
+    <text x="509" y="270" fill="#475569">/</text>
+    <text x="534" y="270" fill="#94A3B8">SELF-HOSTING</text>
+  </g>
+
+  <g transform="translate(78 309)">
+    <circle cx="5" cy="-5" r="5" fill="#22C55E" filter="url(#glow)"/>
+    <text x="20" y="0" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" letter-spacing="2">SYSTEMS ONLINE · ALBION, IN</text>
+  </g>
+
+  <text x="904" y="306" fill="#475569" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="2">BUILD / SHIP / REPEAT</text>
+</svg>
