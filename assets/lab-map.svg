@@ -1,0 +1,35 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111827"/><stop offset="1" stop-color="#0B0F17"/></linearGradient>
+    <filter id="g" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="#090B10"/>
+  <rect x="1" y="1" width="1198" height="298" rx="19" stroke="#334155" stroke-opacity="0.7"/>
+  <text x="48" y="48" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="2">HOME INFRASTRUCTURE / REQUEST PATH</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+    <rect x="48" y="88" width="215" height="132" rx="14" fill="url(#panel)" stroke="#334155"/>
+    <circle cx="72" cy="112" r="5" fill="#22C55E" filter="url(#g)"/>
+    <text x="88" y="117" fill="#F8FAFC" font-size="18" font-weight="700">INTERNET</text>
+    <text x="72" y="153" fill="#94A3B8" font-size="13">domains / TLS / traffic</text>
+    <text x="72" y="179" fill="#64748B" font-size="12">public services</text>
+
+    <path d="M263 154H360" stroke="#5EEAD4" stroke-width="2"/>
+    <path d="M349 146L360 154L349 162" stroke="#5EEAD4" stroke-width="2" fill="none"/>
+
+    <rect x="360" y="70" width="330" height="168" rx="14" fill="url(#panel)" stroke="#5EEAD4" stroke-opacity="0.5"/>
+    <text x="386" y="105" fill="#5EEAD4" font-size="12" letter-spacing="2">NUC1 / NUC7</text>
+    <text x="386" y="137" fill="#F8FAFC" font-size="21" font-weight="700">PROXMOX + CADDY</text>
+    <text x="386" y="172" fill="#94A3B8" font-size="13">reverse proxy · LXCs · ingress</text>
+    <text x="386" y="198" fill="#64748B" font-size="12">all inbound traffic lands here first</text>
+
+    <path d="M690 154H787" stroke="#8B5CF6" stroke-width="2"/>
+    <path d="M776 146L787 154L776 162" stroke="#8B5CF6" stroke-width="2" fill="none"/>
+
+    <rect x="787" y="70" width="365" height="168" rx="14" fill="url(#panel)" stroke="#8B5CF6" stroke-opacity="0.5"/>
+    <text x="813" y="105" fill="#A78BFA" font-size="12" letter-spacing="2">NUC2 / NUC10</text>
+    <text x="813" y="137" fill="#F8FAFC" font-size="21" font-weight="700">MEDIA + DEV</text>
+    <text x="813" y="172" fill="#94A3B8" font-size="13">Plex · *arr · containers · tooling</text>
+    <text x="813" y="198" fill="#64748B" font-size="12">services routed internally from nuc1</text>
+  </g>
+</svg>
